@@ -1,2 +1,2 @@
 # Demo
-This is Demo for Git &amp; Github clss
+This is Demo for Git &amp; Github clss .
